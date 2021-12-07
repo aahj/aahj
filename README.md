@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aamir ALi Hussain, 3rd year undergraduate student of Software Engineering.
+- 👋 Hi, I’m Aamir ALi Hussain, professional Software Engineer.
 - 👀 I’m interested to pursue Full Stack Development as future career.
 - 🌱 I’m currently learning on MERN STACK Applications.
 - 💞️ Despite of this, I can also work with Software Modeling and Database Designing; and can work on Relational / Non- Relational Databases. In addition to this, having good expertise in WORDPRESS Developing and can work on .NET framework as well as with GIT controller version system too.
