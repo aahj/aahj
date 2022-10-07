@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Aamir ALi Hussain, professional Software Engineer.
-- 👀 I’m interested to pursue Full Stack Development as future career.
-- 🌱 I’m currently learning on MERN STACK Applications.
-- 💞️ Despite of this, I can also work with Software Modeling and Database Designing; and can work on Relational / Non- Relational Databases. In addition to this, having good expertise in WORDPRESS Developing and can work on .NET framework as well as with GIT controller version system too.
-- 📫 How to reach me ?? Its easy.  Just Contact on aamiralihussain97@gmail.com
+- 👋 Hi Aamir here,
+- 👀 Bachelors In Software Engineering | IT Automation Engineer | Cloud Computing Engineer | Backend Engineer. 
+- 📫 I've been working as a Backend Engineer on Nodejs - including Scale automation, manage deployments, and speed productivity with an enterprise automation platform that can be used across entire IT teams; and working on global cloud infrastructure.
 
-- 👀 Objective :  Want to pursue Freelancing and want to become a successful Entrepreneur
 
 <!---
 aahj/aahj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
