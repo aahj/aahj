@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aamir and chosen my career with software development after being graduate with Software Engineering degree in 2022. I have been in this software industry since past 02 years.</p>
+<p align="left">Hi, I’m Aamir — a Software Engineer with a degree in Software Engineering and started working professionally from 2021.</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📚 I'm currently working as Software Engineer (Node.js & DevOps) and managing cloud infrastructure for SAAS based applications.</p>
+<p align="left">📚 I specialize in building robust backend systems and automating DevOps workflows. My core expertise lies in Node.js with a focus on REST APIs, microservices, and scalable infrastructure. I’ve worked across SQL/NoSQL databases, serverless environments, and cloud platforms like AWS and Heroku. 
+I’ve hands-on experience on message-based architectures (WebSockets, Pub/Sub, Rabbbitmq), CI/CD pipelines, and container orchestration using Docker and Kubernetes.</p>
 
 ###
 
