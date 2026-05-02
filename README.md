@@ -49,3 +49,17 @@ I’ve hands-on experience on message-based architectures (WebSockets, Pub/Sub, 
 </div>
 
 ###
+
+<h2 align="left">Publications</h2>
+
+<div align="left">
+    <ol>
+        <li><a href="https://medium.com/@aamiralihussain53/how-to-deploy-nodejs-application-using-docker-to-aws-ecr-and-ec2-with-ci-cd-github-actions-fa9dc41ba6ab" target="_blank">Build CI/CD Pipeline for Deploying a Node.js App to AWS EC2 using Docker and GitHub Actions </a></li>
+        <li><a href="https://medium.com/@aamiralihussain53/automate-your-nodejs-application-deployment-to-aws-ec2-using-ansible-43e0ae7ee427" target="_blank"> Automate your Nodejs application deployment to AWS EC2 using Ansible</a></li>
+        <li><a href="https://medium.com/@aamiralihussain53/a-guide-to-publishing-private-npm-package-on-github-9c533a251e2d" target="_blank"> A Guide to Publishing Private npm Package on GitHub</a></li>
+        <li><a href="https://medium.com/@aamiralihussain53/store-logs-on-elk-stack-using-winston-and-nodejs-elasticsearch-kibana-f8bea51fc5b2" target="_blank">Store Logs on ELK stack using Winston and Nodejs: Elasticsearch, Kibana </a></li>
+        <li><a href="https://medium.com/@aamiralihussain53/run-multiple-projects-on-different-node-versions-simultaneously-on-windows-using-pm2-and-nvm-7e5420d2060d" target="_blank">Run Multiple Projects on Different Node Versions Simultaneously on Windows Using PM2 and NVM </a></li>
+    </ol>
+</div>
+
+###
